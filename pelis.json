@@ -1,0 +1,58 @@
+[{
+    "title": "Lord of the Rings",
+    "rating": 10,
+    "tags" : ["fantasia", "accion", "aventura", "medieval"],
+    "estreno": 2001
+    
+    
+},
+{
+    "title": "Matrix",
+    "rating": 8,
+    "tags" : ["ciencia ficcion" , "accion", "clasico"],
+    "estreno": 1999
+    
+},
+{
+    "title": "Amadeus",
+    "rating": 9,
+    "tags" : ["biografia", "musical", "clasico"],
+    "estreno": 1984
+    
+},
+{
+    "title": "Jumanji",
+    "rating": 5,
+    "tags" : ["infantil", "Aventura", "comedia"],
+    "estreno": 1995
+    
+},
+{
+    "title": "El ilusionista",
+    "rating": 7,
+    "tags" : ["suspenso", "misterio", "romance"],
+    "estreno": 2006
+    
+}
+,
+{
+    "title": "Que paso ayer",
+    "rating": 5,
+    "tags" : ["comedia", "nueva", "aventura"],
+    "estreno": 2009
+
+    
+},
+{
+    "title": "Shrek",
+    "rating": 6,
+    "tags" : ["comedia", "animada", "magia", "aventura"],
+    "estreno": 2001
+},
+{
+    "title": "El Conjuro",
+    "rating": 7,
+    "tags" : ["Terror", "suspenso", "nueva"],
+    "estreno": 2013
+}
+]
